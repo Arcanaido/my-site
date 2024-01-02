@@ -1,0 +1,13 @@
+[
+    {
+        "title": "General",
+        "icon": "bi-gear-fill",
+        "path": "/"
+        },
+
+    {
+        "title": "Regra de Três",
+        "path": "/regra-de-Tres"
+    }
+    
+]
